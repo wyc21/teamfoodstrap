@@ -2200,7 +2200,7 @@
 		.box.person {
 			position: relative;
 			border: solid 1px rgba(255, 255, 255, 0.25);
-			padding: 3em 1.5em;
+			padding: 2em 1.5em;
 		}
 
 		.box.person h3 {
