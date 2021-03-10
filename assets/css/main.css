@@ -2213,9 +2213,10 @@
 
 		.box.person .image img {
 			max-width: 70%;
-			display: block;
-			margin-left: auto;
-			margin-right: auto;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+
 		}
 		/*Overlay changes*/
 		.box.person .middle {
@@ -3086,5 +3087,6 @@
 			flex-direction: column;
 			text-align: center;
 		}
+    
 
 }
