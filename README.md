@@ -4,4 +4,4 @@ Website designed and developed to keep track of team documents, activites, and c
 
 <a href="https://wyc21.github.io/teamfoodstrap/">Live</a>
 
-<img src="images/logo.png" width=300px>
+<!--<img src="images/logo.png" width=300px>-->
